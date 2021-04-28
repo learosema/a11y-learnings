@@ -2,4 +2,7 @@ I'm currently doing the deque university courses on a11y and I'm taking notes fo
 
 # Courses I'm going through
 
-- Accessibility Fundamentals: Disabilities, Guidelines and laws
+- https://dequeuniversity.com/curriculum/packages/full
+
+- [Accessibility Fundamentals: Disabilities, Guidelines and laws](fundamentals)
+- [Designing an Accessible User Experience](accessible-ux-design)
