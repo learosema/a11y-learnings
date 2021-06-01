@@ -10,6 +10,8 @@ Realizing that spaces and products should be designed for universal use, the gro
 
 See also: [The Principles of Universal Design](https://www.ncsu.edu/ncsu/design/cud/pubs_p/docs/poster.pdf)
 
+Note: guidelines are quite subjective, it's difficult to write algorithms for that.
+
 ## Principle One: Equitable use
 
 The design is useful and marketable to people with diverse abilities.
@@ -21,6 +23,10 @@ The design is useful and marketable to people with diverse abilities.
 - 1c. Make provisions for privacy, security, and safety equally available to all users.
 - 1d. Make the design appealing to all users.
 
+### Good example on the web
+
+- A web site uses semantic markup in all the appropriate places (headings, landmarks, table structure, form labels, etc.) and creates a single design that works well for users who are sighted as well as for users who are blind.
+
 ## Principle Two: Flexibility in use
 
 The design accommodates a wide range of individual preferences and abilities.
@@ -31,6 +37,11 @@ The design accommodates a wide range of individual preferences and abilities.
 - 2b. Accommodate right- or left-handed access and use.
 - 2c. Facilitate the user's accuracy and precision.
 - 2d. Provide adaptability to the user's pace.
+
+### Good examples on the web
+
+- a drag-drop widget that is designed to work with any of: mouse, keyboard, touchscreen
+- websites warning the user 2 minutes before the session is about to expire and give the user the option to extend the session. The warning is fully accessible to screenreader users
 
 ## Principle Three: Simple and Intuitive Use
 
@@ -44,6 +55,14 @@ Use of the design is easy to understand, regardless of the user's experience, kn
 - 3d. Arrange information consistent with its importance.
 - 3e. Provide effective prompting and feedback during and after task completion.
 
+### Good examples on the web
+
+- news site includes a simplified summary
+- form validation that provides clear success confirmation messages and clear error messages. Ensure screenreader users get full benefit of the messages
+- structured content with headings that clearly mark the important sections of the content
+- Ads are clearly marked as such and are placed out of the main flow.
+
+
 ## Principle Four: Perceptible Information
 
 The design communicates necessary information effectively to the user, regardless of ambient conditions or the user's sensory abilities.
@@ -54,6 +73,11 @@ The design communicates necessary information effectively to the user, regardles
 - 4b. Maximize "legibility" of essential information.
 - 4c. Differentiate elements in ways that can be described (i.e. make it easy to give instructions or directions).
 - 4d. Provide compatibility with a variety of techniques or devices used by people with sensory limitations.
+
+### Good examples on the web
+
+- A tutorial on how to tie your shoes is presented in text, illustrations, and video with narrated instructions.
+- ARIA live announcements are used to announce to screen reader users the number of available options in a custom ARIA/JavaScript autocomplete drop-down list (e.g. "There are three cities that start with 'SAN.' Use the down arrow key to navigate the options").
 
 ## Principle Five: Tolerance for Error
 
@@ -66,6 +90,12 @@ The design minimizes hazards and the adverse consequences of accidental or unint
 - 5c. Provide fail safe features.
 - 5d. Discourage unconscious action in tasks that require vigilance.
 
+### Good examples for the web
+
+- Financials web site confirms "are you sure you want to transfer funds?" before funds are transferred, in case users pressed the button by accident
+- A CMS places "deleted" items in a recycle bin and allows users to recover them later if they change their mind.
+- A search feature performs a spell check on submissions and suggests corrections.
+
 ## Principle Six: Low Physical Effort
 
 The design can be used efficiently and comfortably and with a minimum of fatigue.
@@ -76,6 +106,11 @@ The design can be used efficiently and comfortably and with a minimum of fatigue
 - 6b. Use reasonable operating forces.
 - 6c. Minimize repetitive actions.
 - 6d. Minimize sustained physical effort.
+
+### Good examples for the web
+
+- A web site has a "skip to main content" link at the top, allowing keyboard users to avoid tabbing through all of the links in the header and navigation.
+- A web site has good heading and landmark structure (importantly, the content starts with an <h1> heading, inside a <main> landmark, among others), allowing screen reader users to navigate by headings and landmarks to the part of the page they're interested in.
 
 ## Principle Seven: Size and Space for Approach and Use
 
