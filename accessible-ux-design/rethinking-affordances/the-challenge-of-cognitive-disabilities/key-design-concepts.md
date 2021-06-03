@@ -160,6 +160,7 @@ Using auto-playing audio on web sites is generally not advisable, but for the sa
 In a game-like approach, you could have a voice say "Good job!" or "Congratulations! You finished!" or "Oops. Looks like you need to fix something" or other messages that fit the circumstances. Again, use this approach with caution. Using sounds like this to benefit people with cognitive disabilities can be somewhat at odds with the needs of people using screen readers, who may have a hard time listening to both their screen reader and the web page's sounds at the same time. Ideally, users would have the option to turn these sounds off completely. Be sure any sounds like this are brief, and they are not the only way that information is conveyed. Convey the same information in visual text also.
 
 ## Principle 6: Provide immediate feedback for both success and error scenarios
+
 Users will make mistakes, even on web sites with the best designs. As a general rule, the sooner you provide feedback, the better. The WCAG requirement emphasizes error messages, but success messages are also important.
 
 When users activate a feature or submit a form, you must tell them whether the action was successful or not.
