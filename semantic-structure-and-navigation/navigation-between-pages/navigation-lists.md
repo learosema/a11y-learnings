@@ -52,3 +52,17 @@ Unfortunately, there is no official HTML or ARIA attribute that can be used to d
   </a>
 </li>
 ```
+
+### aria-current
+
+By now, there is also [`aria-current`](https://www.w3.org/TR/wai-aria-1.1/#aria-current):
+
+`aria-current` is presently supported when using NVDA, JAWS 18 or 2018 or later in IE11, Firefox, and Chrome, and when using VoiceOver in Safari within iOS such as the iPhone or iPad.
+
+```html
+<li class="current-page">
+  <a href="#dairy" aria-current="page">
+    Dairy
+  </a>
+</li>
+```
