@@ -4,9 +4,10 @@
 
 Video, audio, and multimedia presentations must be accessible to users who have sensory disabilities (blindness, low vision, deafness, hard of hearing, deafblindness). There are different methods to ensure users with sensory disabilities have access to the information provided in these types of presentations. Common methods include:
 
-Captions: Text synchronized with the media for those who cannot hear the audible information.
-Transcripts: A full text document that includes spoken words, meaningful sound effects, and important visual information. People who cannot see or hear the content benefit from a transcript.
-Audio descriptions: An audio track added to the media where a narrator describes the important visual content that is not conveyed in the media's original audio track (such as unspoken actions and events) for the benefit of people who cannot see what's happening.
+- Captions: Text synchronized with the media for those who cannot hear the audible information.
+- Transcripts: A full text document that includes spoken words, meaningful sound effects, and important visual information. People who cannot see or hear the content benefit from a transcript.
+- Audio descriptions: An audio track added to the media where a narrator describes the important visual content that is not conveyed in the media's original audio track (such as unspoken actions and events) for the benefit of people who cannot see what's happening.
+
 The requirements for video, audio, and multimedia content are going to depend on which accessibility compliance level or standard the content looks to satisfy. Below is a multimedia accessibility decision matrix that will help you identify what is required of different types of content based on compliance level. A, AA, and AAA refer to the Web Content Accessibility Guidelines (WCAG) compliance levels.
 
 ## Multimedia Accessibility Decision Matrix
