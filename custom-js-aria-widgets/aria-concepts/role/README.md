@@ -10,14 +10,14 @@ A screen reader will behave quite differently when it encounters a `<p>` element
 
 ## In this Section:
 
-- Landmark Roles
-- Widget Roles
-- Pseudo HTML Roles
-- The Document Role
-- The Application Role
-- The Presentation Role
-- The Math Role
-- The Definition Role
-- The Note Role
-- The Directory Role
-- Abstract Roles
+- [Landmark Roles](landmark-roles.md)
+- [Widget Roles](widget-roles.md)
+- [Pseudo HTML Roles](pseudo-html-roles.md)
+- [The Document Role](the-document-role.md)
+- [The Application Role](the-application-role.md)
+- [The Presentation Role](the-presentation-role.md)
+- [The Math Role](the-math-role.md)
+- [The Definition Role](the-definition-role.md)
+- [The Note Role](the-note-role.md)
+- [The Directory Role](the-directory-role.md)
+- [Abstract Roles](abstract-roles.md)

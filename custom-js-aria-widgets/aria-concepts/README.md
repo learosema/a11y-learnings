@@ -11,7 +11,7 @@ Before attempting to create custom ARIA JavaScript widgets, it helps to know wha
 - You're doing it wrong (probably).
 - This is somewhat tongue-in-cheek, but it makes some important points.
 
-When developers first learn about ARIA, they sometimes think it can and should be applied everywhere, and that everything should now be a custom ARIA widget. 
+When developers first learn about ARIA, they sometimes think it can and should be applied everywhere, and that everything should now be a custom ARIA widget.
 
 No, no it shouldn't. Use native HTML elements whenever possible. They work. People know how to use them. They're accessible. Only create a custom ARIA/JavaScript widget if there is a compelling reason to do so.
 
@@ -22,11 +22,11 @@ You have to think through the non-visual aspects of the interface. You have to l
 
 But you can learn. This section will explain the core concepts, to give you a solid foundation in the logic and patterns in ARIA techniques.
 
-In this Section:
+## In this Section:
 
-- Overview
-- Name
-- Role
+- [Overview](overview.md)
+- [Name](name.md)
+- [Role](role)
   - Landmark Roles
   - Widget Roles
   - Pseudo HTML Roles
@@ -38,10 +38,10 @@ In this Section:
   - The Note Role
   - The Directory Role
   - Abstract Roles
-- Value
-- Description
-- Live Regions
-- Keyboard Accessibility
+- [Value](value.md)
+- [Description](descriptions.md)
+- [Live Regions](live-regions.md)
+- [Keyboard Accessibility](keyboard-accessibility)
   - ARIA Keyboard Patterns
   - Operability
   - Visible Focus Indicator
