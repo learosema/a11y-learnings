@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Icon fonts allow web developers to add lightweight, reusable icons and images to their designs without adding the extra page weight that images can add. 
+Icon fonts allow web developers to add lightweight, reusable icons and images to their designs without adding the extra page weight that images can add.
 
 Icon fonts also respond to user color preferences, making them ideal in many ways for users who alter the color scheme with tools like Windows High Contrast Mode.
 
@@ -12,6 +12,6 @@ On their own, icon fonts are usually not directly accessible. They benefit from 
 
 ## In this section
 
-- Informative Icon Fonts
-- Decorative or Redundant Icon Fonts
-- SVG as an Alternative to Icon Fonts
+- [Informative Icon Fonts](informative-icon-fonts.md)
+- [Decorative or Redundant Icon Fonts](decorative-or-redundant-icon-fonts.md)
+- [SVG as an Alternative to Icon Fonts](svg-as-an-alternative-to-icon-fonts.md)

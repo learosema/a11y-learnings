@@ -16,12 +16,12 @@ SVG objects are resolution independent, meaning they will look as good on a smal
 
 ## In this Section
 
-- Raster versus Vector Graphics
-- SVG as img src
-- Inline SVGs
-- Embedded SVGs
-- Complex Alternative Text
-- Text in SVGs
-- SVG Color Contrast
-- Animated SVG Content
-- Interactive SVGs
+- [Raster versus Vector Graphics](raster-versus-vector-graphics.md)
+- [SVG as img src](svg-as-img-src.md)
+- [Inline SVGs](inline-svgs.md)
+- [Embedded SVGs](embedded-svgs.md)
+- [Complex Alternative Text](complex-alternative)
+- [Text in SVGs](text-in-svgs.md)
+- [SVG Color Contrast](svg-color-contrast.md)
+- [Animated SVG Content](animated-svg-content.md)
+- [Interactive SVGs](interactive-svgs.md)

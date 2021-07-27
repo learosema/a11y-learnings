@@ -14,3 +14,5 @@ Other kinds of content usually require alternative representations too, such as:
 - Documents (e.g. Word, PowerPoint, PDF, etc., which also require effective use of their respective APIs)
 
 Often it is best to also create an HTML-based alternative version of non-HTML content, because HTML usually offers the greatest potential for accessibility across the greatest diversity of devices.
+
+- [Table of Contents](toc.md)

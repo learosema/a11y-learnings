@@ -14,6 +14,6 @@ The same types of accessibility rules that apply to HTML also apply to third-par
 
 ## In this section
 
-- Video and Audio
-- Other Objects
-- Documents (Word, PDF, EPUB)
+- [Video and Audio](video-and-audio.md)
+- [Other Objects](objects.md)
+- [Documents (Word, PDF, EPUB)](documents.md)

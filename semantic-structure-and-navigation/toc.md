@@ -1,5 +1,6 @@
-Table of Contents:
-Semantic Structure and Navigation
+# Semantic Structure and Navigation
+
+## Table of Contents:
 
 - [Introduction](README.md)
 - [Page Title](page-title)

@@ -1,0 +1,44 @@
+# Images, SVG, and Canvas
+
+## Table of Contents:
+
+- [Introduction](README.md)
+- [Image Alt Text](image-alt-text)
+  - Informative Images
+  - Decorative or Redundant Images
+  - Actionable Images (Links, Buttons, Controls)
+  - Form Inputs type="image"
+  - Animated Images
+  - Complex Images
+  - Images of Text
+  - CSS Background Images
+  - Image Maps
+- [Advanced Alt Text & Extended Descriptions](advanced-alt-text-and-extended-descriptions)
+  - An Illustrative Painting
+  - Ecology Diagram
+  - Map directions
+- [SVG](svg)
+  - Raster versus Vector Graphics
+  - SVG as img src
+  - Inline SVGs
+  - Embedded SVGs
+  - Complex Alternative Text
+  - Text in SVGs
+  - SVG Color Contrast
+  - Animated SVG Content
+  - Interactive SVGs
+- [Icon Fonts](icon-fonts)
+  - Informative Icon Fonts
+  - Decorative or Redundant Icon Fonts
+  - SVG as an Alternative to Icon Fonts
+- [HTML5 Canvas](html5-canvas)
+  - Simple Text Alternatives
+  - Complex Text Alternatives
+  - Low Vision Accessibility
+  - Keyboard Accessibility
+- [Multimedia, Objects, and Documents](multimedia-objects-and-documents)
+  - Video and Audio
+  - Other Objects
+  - Documents (Word, PDF, EPUB)
+- [Summary](summary.md)
+- [Checklist](module-images-checklist.pdf)

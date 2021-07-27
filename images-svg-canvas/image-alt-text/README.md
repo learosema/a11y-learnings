@@ -29,12 +29,12 @@ Refer to the [technical explanation of the accessible name calculation](https://
 
 ## In this Section:
 
-- Informative Images
-- Decorative or Redundant Images
-- Actionable Images (Links, Buttons, Controls)
-- Form Inputs type="image"
-- Animated Images
-- Complex Images
-- Images of Text
-- CSS Background Images
-- Image Maps
+- [Informative Images](informative-images.md)
+- [Decorative or Redundant Images](decorative-or-redundant-images.md)
+- [Actionable Images (Links, Buttons, Controls)](actionable-images-links-buttons-controls.md)
+- [Form Inputs type="image"](form-input-type-image.md)
+- [Animated Images](animated-images.md)
+- [Complex Images](complex-images.md)
+- [Images of Text](images-of-text.md)
+- [CSS Background Images](css-background-images.md)
+- [Image Maps](image-maps.md)

@@ -16,5 +16,12 @@ When the `<canvas>` element is used as mouse and keyboard operable custom UI con
 
 References:
 
-- [The Canvas Shadow dom](https://msdn.microsoft.com/en-us/library/hh968259(v=vs.85).aspx)
+- [The Canvas Shadow dom](<https://msdn.microsoft.com/en-us/library/hh968259(v=vs.85).aspx>)
 - [User input in canvas-based games](https://developer.ibm.com/industries/gaming/tutorials/wa-games/)
+
+## In this Section:
+
+- [Simple Text Alternatives](simple-text-alternatives.md)
+- [Complex Text Alternatives](complex-text-alternatives.md)
+- [Low Vision Accessibility](low-vision-a11y.md)
+- [Keyboard Accessibility](keyboard-a11y.md)

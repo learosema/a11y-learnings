@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Color is a great way to enhance the visual appeal of our web content, but we must ensure that color is not the only way information is conveyed. 
+Color is a great way to enhance the visual appeal of our web content, but we must ensure that color is not the only way information is conveyed.
 
 Information, in this context, includes emphasizing text, distinguishing between visual elements, and distinguishing interactive elements from static elements. People who are colorblind, have low vision or are blind must also have access to information conveyed by color.
 
@@ -14,7 +14,7 @@ In no way do we discourage the use of color in web design, but it is crucial to 
 
 ## In this Section:
 
-- Color that Conveys Meaning
-- Color to Distinguish Links from Text
-- Color to Distinguish UI Components
-- Allowing Customizability
+- [Color that Conveys Meaning](color-that-conveys-meaning.md)
+- [Color to Distinguish Links from Text](color-to-distinguish-links-from-text.md)
+- [Color to Distinguish UI Components](color-to-distinguish-ui-components.md)
+- [Allowing Customizability](allowing-customizability.md)

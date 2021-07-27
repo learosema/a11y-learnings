@@ -1,11 +1,11 @@
-# Form inputs type="submit"
+# Form inputs type="image"
 
 ## Form inputs with type="image" MUST have alternative text.
+
 In order for alternative text to be programmatically determinable for an input with type="image", you must use the alt attribute on the input element.
 
 ```html
-<input type="image" name="submit" src="submit-button.png" 
-     alt="Submit">
+<input type="image" name="submit" src="submit-button.png" alt="Submit" />
 ```
 
 ## The alternative text for form inputs with type="image" MUST accurately convey the purpose or result of the input action.
