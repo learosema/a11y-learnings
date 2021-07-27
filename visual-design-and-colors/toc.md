@@ -18,7 +18,7 @@ Visual Design and Colors
   - Visual Proximity of Labels
   - Layout Design to Enhance Visual Discoverability
 - [Target Size](target-size.md)
-- [Reading Order, Focus Order](Reading Order, Focus Order.md)
+- [Reading Order, Focus Order](reading-and-focus-order)
   - Reading Order
   - Focus or Tab Order
 - [Typography](typography)
