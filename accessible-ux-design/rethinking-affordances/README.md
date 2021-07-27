@@ -8,13 +8,13 @@ The challenge is to think through the many possible interfaces to your designs a
 
 ## In this section
 
-- Defining Affordances
-- Blind: An Audio-Structural UX
+- [Defining Affordances](defining-affordances.md)
+- [Blind: An Audio-Structural UX](blind-an-audio-structural-ux)
   - Overall Page UX
   - Interaction UX
-- Deafblind: A Tactile-Structural Text-only UX
-- Deaf: A Silent Visual UX
-- The Challenge of Cognitive Disabilities
+- [Deafblind: A Tactile-Structural Text-only UX](defblind-a-tactile-structural-text-only-ux)
+- [Deaf: A Silent Visual UX](deaf-a-silent-visual-ux)
+- [The Challenge of Cognitive Disabilities](the-challenge-of-cognitive-disabilities)
   - What it means to have a cognitive disability
   - Key Design Concepts
   - WCAG Guidelines Benefitting Cognitive Disabilities

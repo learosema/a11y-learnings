@@ -35,3 +35,7 @@ Disability is only one aspect of human diversity and identity, but it is an impo
 
 Sometimes the paying close attention to the intersection of different aspects of the human experience — such as disability and poverty — can yield insights that might be overlooked otherwise.
 
+## In this Section:
+
+- [Examining the Edge Cases](examining-the-edge-cases.md)
+- [User Research with People with Disabilities](user-research-with-people-with-disabilities.md)

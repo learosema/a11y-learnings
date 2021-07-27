@@ -20,3 +20,8 @@ To add a bit more detail to the definition of Web a11y, the [WCAG 2.1](https://w
 ### Usability
 
 The qualities that make a web experience intuitive and easy to use. A usable web design aligns with the purpose for which the web site was created.
+
+## In this Section
+
+- [Defining Accessibility as the Minimum Goal](a11y-as-minimum-goal.md)
+- [7 Principles of Universal Design](seven-principles-of-universal-design.md)

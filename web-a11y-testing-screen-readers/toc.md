@@ -1,0 +1,67 @@
+# Web Accessibility Testing: Screen Readers
+
+## Table of Contents
+
+- Introduction
+- Screen Reader Basics
+  - What Are Screen Readers?
+  - Who Uses Screen Readers?
+  - Why Test with Screen Readers?
+  - Which Screen Readers Should You Test With?
+- Can Websites Detect Screen Readers?
+  - Windows Screen Readers on a Mac
+  - Characteristics of Screen Readers
+  - No Visual Interface
+  - No Mouse, Just Keyboard
+  - Linear Content
+  - Non-Linear Navigation
+  - No Visual Styles
+  - Pronunciation
+  - Characters & Symbols
+  - Abbreviations and Acronyms
+  - Screen Readers Read the Accessibility API and/or DOM
+  - Virtual Buffer
+- Accessibility APIs
+  - Windows
+  - MacOS
+  - Browsers
+- Wayfinding and Reading Content with Screen Readers
+  - Page Title
+  - Read All Content
+  - Headings
+  - Landmarks
+  - Lists
+  - Navigating Sequentially
+  - Previous and Next Items
+  - Focusable Items (with Tab key)
+  - Graphics
+  - Links
+  - Tables
+  - Searching within the Page
+  - Exploring Forms
+- Screen Reader Modes
+  - Document/Browse/Scan Mode
+  - Focus, Application, and Forms Mode
+  - Table Mode
+  - JAWS PC Cursor, JAWS Cursor, & Virtual PC Cursor
+- JAWS (Windows)
+  - Keystrokes
+  - Configuration Options
+- NVDA (Windows)
+  - Keystrokes
+  - Configuration Options
+- VoiceOver (iOS)
+  - Gestures
+  - Configuration Options
+- TalkBack (Android)
+  - Gestures
+  - Configuration Options
+- VoiceOver (macOS)
+  - Enabling Keyboard Access on a Mac
+  - Keystrokes
+  - Configuration Options
+- Narrator (Windows)
+  - Keystrokes
+  - Configuration Options
+- ChromeVox
+- Printable Resources

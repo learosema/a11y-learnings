@@ -19,6 +19,6 @@ As a result, cognitive disabilities will, unfortunately, continue to be neglecte
 
 ## In this section
 
-- What it means to have a cognitive disability
-- Key Design Concepts
-- WCAG Guidelines Benefitting Cognitive Disabilities
+- [What it means to have a cognitive disability](what-it-means-to-have-a-cognitive-disability.md)
+- [Key Design Concepts](key-design-concepts.md)
+- [WCAG Guidelines Benefitting Cognitive Disabilities](wcag-guidelines-benefitting-cognitive-disabilities.md)

@@ -12,7 +12,7 @@ Creating a design that allows for a diversity of methods of use across multiple 
 
 ## In this section
 
-- The Ability Persona Spectrum
-- An "Accessibility First" Mindset
-- Collateral Benefits
-- One Interface Fits All?
+- [The Ability Persona Spectrum](the-ability-persona-spectrum.md)
+- [An "Accessibility First" Mindset](an-a11y-first-mindset.md)
+- [Collateral Benefits](collateral-benefits.md)
+- [One Interface Fits All?](one-interface-fits-all.md)

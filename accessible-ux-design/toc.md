@@ -1,0 +1,43 @@
+# Designing an Accessible User Experience
+
+## Table of Contents:
+
+- [Introduction](README.md)
+- [Accessibility and Inclusive Design](a11y-inclusive-design)
+  - Defining Accessibility as the Minimum Goal
+  - 7 Principles of Universal Design
+- [Avoid Exclusive Design Patterns](avoid-exclusive-design-patterns)
+  - Examine Assumptions
+  - Designs that Cause Exclusion
+  - Learning from Accessibility Design Failures
+    - Failure to Design
+    - Ineffective Designs
+    - Incomplete Designs
+    - Bad Retrofitting
+    - Inconvenient or Stigmatizing Designs
+    - "Accessibility Rot" Over Time
+- [Embrace Diversity](embrace-diversity)
+  - Examining the Edge Cases
+  - User Research with People with Disabilities
+- [Create Inclusive Designs](create-inclusive-designs)
+  - The Ability Persona Spectrum
+  - An "Accessibility First" Mindset
+  - Collateral Benefits
+  - One Interface Fits All?
+- [Rethinking "Affordances"](rethinking-affordances)
+  - Defining Affordances
+  - Blind: An Audio-Structural UX
+    - Overall Page UX
+    - Interaction UX
+  - Deafblind: A Tactile-Structural Text-only UX
+  - Deaf: A Silent Visual UX
+  - The Challenge of Cognitive Disabilities
+    - What it means to have a cognitive disability
+    - Key Design Concepts
+    - WCAG Guidelines Benefitting Cognitive Disabilities
+- [The Challenge of User-Generated Content](the-challenge-of-user-generated-content)
+  - Leveraging the Authoring Tool Accessibility Guidelines
+  - Automated Solutions
+- [Web Design Considerations, By Disability Type](pdf-checklists/design-considerations-for-disabilities.pdf)
+- [Basic Web Accessibility Checklist for Designers](pdf-checklists/basic-web-accessibility-checklist-for-designers.pdf)
+- [Summary](summary.md)

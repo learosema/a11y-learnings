@@ -18,3 +18,6 @@ I'm currently doing the deque university courses on a11y and I'm taking notes fo
 - [Dynamic Updates, AJAX, and Single-Page Apps](dynamic-updates-ajax-spa)
 - [Custom JavaScript/ARIA Widgets](custom-js-aria-widgets)
 - [Web Accessibility Testing: Basic Methods and Tools](web-a11y-testing-basic-methods-and-tools)
+- [Web Accessibility Testing: Screen Readers]()
+- [WCAG Conformance Testing, Detailed Methodology]()
+- [Usability Testing for Accessibility]()
