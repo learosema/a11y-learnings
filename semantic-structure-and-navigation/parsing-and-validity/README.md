@@ -6,3 +6,9 @@ It is always a good idea, though not always absolutely necessary for accessibili
 
 The more conscientious and careful you are with your markup, the better it will be overall for your web site, even if not all of your efforts have a direct effect on accessibility.
 
+## In this Section:
+
+- [Complete Start and End Tags](complete-start-and-end-tags.md)
+- [Conflicts and duplicates](conflicts-and-duplicates.md)
+- [Parent-child relationships](parent-child-relationships.md)
+- [Deprecated Markup](deprecated-markup.md)

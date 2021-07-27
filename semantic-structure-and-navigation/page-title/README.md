@@ -10,3 +10,7 @@ The `<title>` of the page is critical, because it is the first thing a screen re
 
 Search engines and site search tools also use the page title when displaying search results. Effective titles help users quickly sift through the search results to identify the content they need. In this sense, good page titles are an important component of search engine optimization (SEO) in addition to accessibility.
 
+## In this Section:
+
+- [Title for Every Page](title-for-every-page.md)
+- [Meaningful Page Title](meaningful-page-title.md)

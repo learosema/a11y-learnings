@@ -1,0 +1,72 @@
+Table of Contents:
+Semantic Structure and Navigation
+
+- [Introduction](README.md)
+- [Page Title](page-title)
+  - Title for Every Page
+  - Meaningful Page Title
+- [Language](language)
+  - Primary Language of Page
+  - Language of Parts within the Page
+  - Language Codes
+- [Landmarks](landmarks)
+  - Creating Landmarks (HTML5, ARIA)
+  - Best Practices for Landmarks
+  - Backward Compatibility
+  - Navigating Landmarks with Screen Readers
+- [General UI Components](general-ui-components.md)
+- [Headings](headings.md)
+  - Real Headings
+  - Meaningful Text
+  - Outline/Hierarchy of Content
+  - Heading Level 1 Best Practices
+  - Navigating Headings with Screen Readers
+- [Links](links)
+  - Designate Links Correctly
+  - Link Text
+  - Links to External Sites, New Windows, Files
+  - Visually Distinguishable from Text
+  - Visual focus indicator
+  - Navigating links with screen readers
+- [Navigation Between Pages](navigation-between-pages)
+  - Navigation Lists
+  - Consistency
+- [Navigation Within Pages](navigation-within-pages)
+  - Skip Navigation Links
+  - Table of Contents
+  - Reading Order and Tab/Focus Order
+  - Single-Key Shortcuts
+  - Paginated Views
+- [Tables](tables)
+  - Semantic Markup for Tabular Data
+  - Table caption/name
+  - Table Headers
+  - Simple Header Associations
+  - Grouped Header Associations
+  - Complex Header Associations
+  - Nested or Split Tables
+  - Table Summary
+  - Layout Tables
+  - Navigating Tables with Screen Readers
+- [Lists](lists)
+  - Semantic Markup for Lists
+  - Navigating lists with screen readers
+- [Iframes](iframes)
+  - Frame titles
+  - Page Title Within an Iframe
+  - Semantic structure across iframes
+  - Hiding iframes that don’t contain meaningful content
+  - Navigating iframes with screen readers
+- [Other Semantic Elements](other-semantic-elements)
+  - strong and em
+  - blockquote and q
+  - code and pre
+  - Strikethrough/Delete and Insert
+  - Highlighting (mark)
+- [Parsing and Validity](parsing-and-validity)
+  - Complete Start and End Tags
+  - Conflicts and duplicates
+  - Parent-child relationships
+  - Deprecated Markup
+- [Summary](summary.md)
+- [Checklist](module-semantic-checklist.pdf)
