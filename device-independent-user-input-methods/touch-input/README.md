@@ -10,8 +10,8 @@ This course section covers touch functionality with the screen reader on and off
 
 ## In this Section:
 
-- Touch Functionality
-- Touch Functionality with Screen Reader Turned On
-- Touch Target Size
-- Focus Trap
-- Pointer Gestures
+- [Touch Functionality](touch-functionality.md)
+- [Touch Functionality with Screen Reader Turned On](touch-functionality-with-screen-reader-turned-on.md)
+- [Touch Target Size](touch-target-size.md)
+- [Focus Trap](focus-trap.md)
+- [Pointer Gestures](pointer-gestures.md)

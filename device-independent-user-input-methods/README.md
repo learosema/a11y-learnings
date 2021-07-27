@@ -10,13 +10,13 @@ It's worth it to point out that there are many other kinds of input devices beyo
 
 The good news is that all of these devices are variations of keyboard, mouse, touch, and voice devices. In fact, most of them emulate a keyboard. Some also offer basic mouse emulation. You don't need to know all of the nuances of all the possible kinds of devices, as long as you get the keyboard, mouse, touch, and voice right.
 
-
 ## In this Section
 
-- Mouse Input
-- Keyboard Input
-- Touch Input
-- Voice Input
-- Input Modalities
-- Motion, Disappearing Content, Transitions
-- Summary and Checklist
+- [Mouse Input](mouse-input)
+- [Keyboard Input](keyboard-input)
+- [Touch Input](touch-input)
+- [Voice Input](voice-input)
+- [Input Modalities](input-modalities)
+- [Motion, Disappearing Content, Transitions](motion-disappearing-content-and-transitions)
+- [Summary](summary.md)
+- [Checklist](module-input-methods-checklist.pdf)
