@@ -6,6 +6,6 @@ Standard native HTML form elements are easy to make accessible (with proper labe
 
 ## In this Section:
 
-- Progressive Form Updates
-- Changes in Context
-- Custom Form Inputs
+- [Progressive Form Updates](progressive-form-updates.md)
+- [Changes in Context](changes-in-context.md)
+- [Custom Form Inputs](custom-form-inputs.md)

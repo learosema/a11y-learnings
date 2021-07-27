@@ -18,9 +18,9 @@ Several of the WCAG 2.1 Guidelines focus specifically on the effectiveness of al
 
 ## In this Section:
 
-- Error Prevention
-- Design Pattern 1: Error/Success Summary
-- Design Pattern 2: Send Focus to First Error
-- Design Pattern 3: Inline (Real-Time) Validation
-- Error Identification Considerations
-- Success Confirmation Considerations
+- [Error Prevention](error-prevention.md)
+- [Design Pattern 1: Error/Success Summary](design-pattern-1-error-success-summary.md)
+- [Design Pattern 2: Send Focus to First Error](design-pattern-2-send-focus-to-first-error.md)
+- [Design Pattern 3: Inline (Real-Time) Validation](design-pattern-3-inline-real-time-validation.md)
+- [Error Identification Considerations](error-identification-considerations.md)
+- [Success Confirmation Considerations](success-confirmation-considerations.md)

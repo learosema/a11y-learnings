@@ -15,7 +15,7 @@ All in all, here's what we basically need to keep in mind when it comes to instr
 
 ## In this Section:
 
-- Instructions for Forms, Groups, and Sections
-- Instructions for Inputs
-- Required Fields
-- Input Purpose
+- [Instructions for Forms, Groups, and Sections](instructions-for-forms-groups-and-sections.md)
+- [Instructions for Inputs](instructions-for-inputs.md)
+- [Required Fields](required-fields.md)
+- [Input Purpose](input-purpose.md)

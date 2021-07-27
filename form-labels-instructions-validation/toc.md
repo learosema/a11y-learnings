@@ -1,5 +1,5 @@
-- Introduction
-- Labels
+- [Introduction](README.md)
+- [Labels](labels)
   - Semantic Labels
   - Meaningful Label Text
   - Icons as Labels
@@ -8,7 +8,7 @@
   - Proximity of Labels to Controls
   - Multiple Labels for One Field
   - One Label for Multiple Fields
-- Group Labels
+- [Group Labels](group-labels)
   - Semantic Group Labels
   - Meaningful Group Labels
   - Proximity of Group Labels
@@ -22,15 +22,16 @@
   - Progressive Form Updates
   - Changes in Context
   - Custom Form Inputs
-- Form Validation
-  - Error Prevention 
+- [Form Validation](form-validation)
+  - Error Prevention
     - Design Pattern 1: Error/Success Summary
     - Design Pattern 2: Send Focus to First Error
   - Design Pattern 3:
     - Inline (Real-Time) Validation
   - Error Identification Considerations
   - Success Confirmation Considerations
-- Using Forms with Screen Readers
-- Keyboard Commands
-- Screen Reader Modes
-- Summary and Checklist
+- [Using Forms with Screen Readers](using-forms-with-screen-readers)
+  - Keyboard Commands
+  - Screen Reader Modes
+- [Summary](summary.md)
+- [Checklist](module-forms-checklist.pdf)

@@ -19,3 +19,5 @@ The more interactive a form element or process is, the more attention needs to b
 - ARIA live announcements, where necessary
 
 This module provides instruction and examples about each of these concepts.
+
+- [Table of Contents](toc.md)

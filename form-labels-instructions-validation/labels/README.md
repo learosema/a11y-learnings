@@ -11,11 +11,11 @@ All form inputs and controls need to have a label — a label that is understand
 
 ## In this Section:
 
-- Semantic Labels
-- Meaningful Label Text
-- Icons as Labels
-- Placeholder Text as Labels
-- Visibility of Labels
-- Proximity of Labels to Controls
-- Multiple Labels for One Field
-- One Label for Multiple Fields
+- [Semantic Labels](semantic-labels.md)
+- [Meaningful Label Text](meaningful-label-text.md)
+- [Icons as Labels](icons-as-labels.md)
+- [Placeholder Text as Labels](placeholder-text-as-labels.md)
+- [Visibility of Labels](visibility-of-labels.md)
+- [Proximity of Labels to Controls](proximity-of-labels-to-controls.md)
+- [Multiple Labels for One Field](multiple-labels-for-one-field.md)
+- [One Label for Multiple Fields](one-label-for-multiple-fields.md)

@@ -10,5 +10,5 @@ In this section, we'll discuss how screen readers interact with forms and the di
 
 ## In this Section:
 
-- Keyboard Commands
-- Screen Reader Modes
+- [Keyboard Commands](keyboard-commands.md)
+- [Screen Reader Modes](screen-reader-modes.md)

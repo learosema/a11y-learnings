@@ -13,7 +13,7 @@ The concepts that make group labels accessible are similar to the concepts that 
 
 ## In this Section:
 
-- Semantic Group Labels
-- Meaningful Group Labels
-- Proximity of Group Labels
-- Visibility of Group Labels
+- [Semantic Group Labels](semantic-group-labels.md)
+- [Meaningful Group Labels](meaningful-group-labels.md)
+- [Proximity of Group Labels](proximity-of-group-labels.md)
+- [Visibility of Group Labels](visibility-of-group-labels.md)
