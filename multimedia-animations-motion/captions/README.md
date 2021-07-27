@@ -4,17 +4,17 @@
 
 ### Why captions are important
 
-Captions are text-based versions of content presented in an audible format. Captions present the same information that is provided either through audio-only content or audio content that is synchronized with video content. 
+Captions are text-based versions of content presented in an audible format. Captions present the same information that is provided either through audio-only content or audio content that is synchronized with video content.
 
-Providing captions for audio-only content and audio synchronized with video content helps to ensure that the audio is available to individuals who are unable to access information presented in an audible format, especially individuals who are deaf or hard of hearing. 
+Providing captions for audio-only content and audio synchronized with video content helps to ensure that the audio is available to individuals who are unable to access information presented in an audible format, especially individuals who are deaf or hard of hearing.
 
 Even though captions are used to make audio content accessible to people who are deaf or hard of hearing, captions may also help those who may not be fluent in the language used in the audio content; and they may help people who can hear content better process the information that is presented audibly.
 
 ### Captions versus Subtitles
 
-The terms "captions" and "subtitles" are sometimes used interchangeably, though they are not the same thing. 
+The terms "captions" and "subtitles" are sometimes used interchangeably, though they are not the same thing.
 
-Both of them are text synchronized with the dialog and narration in a video, but one is intended specifically for deaf audiences (descriptions of sounds are included in addition to the dialog and narration), and the other is intended to provide a translation from one language to another, or as a clarification of what is being said in the same language if the audio is unclear. 
+Both of them are text synchronized with the dialog and narration in a video, but one is intended specifically for deaf audiences (descriptions of sounds are included in addition to the dialog and narration), and the other is intended to provide a translation from one language to another, or as a clarification of what is being said in the same language if the audio is unclear.
 
 As to which term is which, there are regional differences in how the terms are used.
 
@@ -40,10 +40,10 @@ You can use auto-captioning as a starting point to create captions as they can b
 
 ## In this Section:
 
-- Open versus Closed Captions
-- Prerecorded Multimedia
-- Live Events
-- What to Include in Captions
-- Visual Presentation of Captions
-- Visual Customizability
-- Caption File Format
+- [Open versus Closed Captions](open-versus-closed-captions.md)
+- [Prerecorded Multimedia](prerecorded-multimedia.md)
+- [Live Events](live-events.md)
+- [What to Include in Captions](what-to-include-in-captions.md)
+- [Visual Presentation of Captions](visual-presentation-of-captions.md)
+- [Visual Customizability](visual-customizability.md)
+- [Caption File Format](caption-file-format.md)

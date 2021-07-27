@@ -15,5 +15,5 @@ Audio that starts automatically when a page is loaded — such as music or a new
 
 ## In this Section:
 
-- Background Sounds in Media
-- Background Audio on Web Pages
+- [Background Sounds in Media](background-sounds-in-media.md)
+- [Background Audio on Web Pages](background-audio-on-web-pages.md)

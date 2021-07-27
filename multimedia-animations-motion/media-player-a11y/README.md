@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-In the past, embedding videos and other types of media into web pages required custom plugins like Windows Media Player, Flash, RealMedia, QuickTime, Java, and so on. 
+In the past, embedding videos and other types of media into web pages required custom plugins like Windows Media Player, Flash, RealMedia, QuickTime, Java, and so on.
 
 All of those technologies can still work to play stand-alone videos on a computer, but they are much less common on the web because HTML 5 video has made the plugin approach mostly obsolete. HTML 5 video works well, and the browser's built-in media player can be accessible, though the actual accessibility of the media player varies from one browser to the next and depends on the level of support in the screen reader.
 
@@ -14,7 +14,7 @@ This section discusses what it takes for a media player to be considered accessi
 
 ## In this Section:
 
-- Keyboard Accessibility
-- Screen Reader Accessibility
-- Captions, Transcripts, and Audio Descriptions
-- Customizability
+- [Keyboard Accessibility](keyboard-accessibility.md)
+- [Screen Reader Accessibility](screen-reader-accessibility.md)
+- [Captions, Transcripts, and Audio Descriptions](captions-transcripts-and-audio-descriptions.md)
+- [Customizability](customizability.md)

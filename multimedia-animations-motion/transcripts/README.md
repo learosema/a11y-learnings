@@ -12,7 +12,7 @@ Users can also search through the text and interact with the text (e.g., copy an
 
 ## In this Section:
 
-- Determining When Transcripts Are Needed
-- What to Include in Transcripts
-- Methods of Presenting Transcripts
-- Interactive Transcripts
+- [Determining When Transcripts Are Needed](determining-when-transcripts-are-needed.md)
+- [What to Include in Transcripts](what-to-include-in-transcripts.md)
+- [Methods of Presenting Transcripts](methods-of-presenting-transcripts.md)
+- [Interactive Transcripts](interactive-transcripts.md)

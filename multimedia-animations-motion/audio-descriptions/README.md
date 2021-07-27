@@ -4,7 +4,7 @@
 
 Audio Descriptions in a video add to the experience a person who is blind will have when consuming the content. A lot of things happen in movies that are completely visual, with no auditory component.
 
-For example, a person can make a facial expression, but not say any words. The camera can show a mountain scene, but no one in the movie says, "this is a mountain scene." 
+For example, a person can make a facial expression, but not say any words. The camera can show a mountain scene, but no one in the movie says, "this is a mountain scene."
 
 There is a lot of visual information that is important to a video that may not be easily understood by someone who does not see the screen. Audio descriptions are the solution to make visual information in movies accessible to blind people.
 
@@ -14,7 +14,7 @@ Audio description works best when users can turn it on or off, or when there is 
 
 ## In this Section:
 
-- Determining When Audio Descriptions Are Needed
-- What to Include in Audio Descriptions
-- Extended Audio Descriptions
-- Methods of Presenting Audio Descriptions
+- [Determining When Audio Descriptions Are Needed](determining-when-audio-descriptions-are-needed.md)
+- [What to Include in Audio Descriptions](what-to-include-in-audio-descriptions.md)
+- [Extended Audio Descriptions](extended-audio-descriptions.md)
+- [Methods of Presenting Audio Descriptions](methods-of-presenting-audio-descriptions.md)

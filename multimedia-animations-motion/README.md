@@ -18,3 +18,5 @@ There are additional considerations:
 - Preventing auto-play audio interference with screen readers: Media players that auto-play can interfere with screen reader users' ability to hear their screen reader.
 
 This module covers these topics in detail.
+
+- [Table of Contents](toc.md)

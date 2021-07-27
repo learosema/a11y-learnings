@@ -13,6 +13,8 @@ People who are susceptible to nausea or who experience dizziness or vestibular d
 
 The more parallax effects you include, and the more extreme they are, the greater the risk that you'll cause problems for people with vestibular disorders.
 
+- [Bad Example](https://media.dequeuniversity.com/courses/generic/web-multimedia-animations-and-motion/2.0/en/html/parallax/bad1.html)
+
 ## All content and features within parallax scrolling content MUST be accessible by keyboard.
 
 Keyboard users must be able to access the hidden areas of a parallax scrolling area and use all of the features of the web page. If the scrolling is scripted to respond to mouse events, or if the hidden content is set to display: none in the CSS, keyboard users may not be able to access the hidden parts of the content.
@@ -28,6 +30,8 @@ If there are any places where the text appears over low contrast areas of the ba
 Not everyone understands how to use parallax scrolling interfaces. The first time people are presented with a parallax scrolling page, they may not even realize they have to scroll at all, especially if the image or first "slide" takes up the entire screen. Users may leave the page thinking there is nothing more to see.
 
 Similarly, if the parallax scrolling feature includes a large image that is completely static, with text that moves over top of it, some users may become confused and wonder if something is broken or if they are doing something wrong.
+
+- [Bad example](https://media.dequeuniversity.com/courses/generic/web-multimedia-animations-and-motion/2.0/en/html/parallax/bad2.html)
 
 ## Parallax scrolling pages can negatively impact SEO
 

@@ -12,6 +12,6 @@ Symptoms can range from occasional, mild balance problems to severe cases that i
 
 ## In this Section:
 
-- Parallax Effects
-- Background Videos and Animations
-- Animations from Interactions
+- [Parallax Effects](parallax-effects.md)
+- [Background Videos and Animations](background-videos-and-animations.md)
+- [Animations from Interactions](animations-from-interactions.md)

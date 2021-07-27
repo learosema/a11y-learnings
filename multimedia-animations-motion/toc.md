@@ -1,0 +1,48 @@
+# Multimedia, Animations, and Motion
+
+## Table of Contents
+
+- [Introduction](README.md)
+- [Multimedia Accessibility Decision Matrix](multimedia-a11y-decision-matrix.md)
+- [Captions](captions)
+  - Open versus Closed Captions
+  - Prerecorded Multimedia
+  - Live Events
+  - What to Include in Captions
+  - Visual Presentation of Captions
+  - Visual Customizability
+  - Caption File Format
+- [Transcripts](transcripts)
+  - Determining When Transcripts Are Needed
+  - What to Include in Transcripts
+  - Methods of Presenting Transcripts
+  - Interactive Transcripts
+- [Audio Descriptions](audio-descriptions)
+  - Determining When Audio Descriptions Are Needed
+  - What to Include in Audio Descriptions
+  - Extended Audio Descriptions
+  - Methods of Presenting Audio Descriptions
+- [Sign Language Interpretation](sign-language-interpretation)
+  - Determining When Sign Language Interpretation is Needed
+  - Methods of Presenting Sign Language Interpretation
+- [Media Player Accessibility](media-player-a11y)
+  - Keyboard Accessibility
+  - Screen Reader Accessibility
+  - Captions, Transcripts, and Audio Descriptions
+  - Customizability
+- [Background Sounds](background-sounds)
+  - Background Sounds in Media
+  - Background Audio on Web Pages
+- [Seizure-Inducing Flashes](seizure-inducing-flashes)
+  - Flashing Content
+- [Animations and Motion](animations-and-motion)
+  - Parallax Effects
+  - Background Videos and Animations
+  - Animations from Interactions
+- [Auto-Play](auto-play.md)
+- [Legal Requirements](legal-requirements)
+  - Procurement Laws (Section 508, EN 301 549)
+  - Civil Rights Laws
+  - CVAA: The 21st Century Video Communications and Accessibility Act
+- [Summary](summary.md)
+- [Checklist](module-multimedia-checklist.pdf)

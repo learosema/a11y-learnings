@@ -6,4 +6,4 @@ Some people are sensitive to flashing lights, such as strobe lights, and can exp
 
 ## In this Section:
 
-- Flashing Content
+- [Flashing Content](flashing-content.md)
