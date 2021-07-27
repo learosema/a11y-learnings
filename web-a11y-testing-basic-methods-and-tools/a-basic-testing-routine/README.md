@@ -40,9 +40,9 @@ A methodology such as this one provides some of the foundational pieces required
 
 ## In this Section:
 
-- Run an Automated Check
-- Screen Reader Resources
-- Test for Keyboard Accessibility
+- [Run an Automated Check](run-an-automated-check.md)
+- [Screen Reader Resources](screen-reader-resources.md)
+- [Test for Keyboard Accessibility](test-for-keyboard-a11y)
   - Enabling Keyboard Access on a Mac
   - Tab Focusability and Tab Order
   - Keyboard Functionality
@@ -50,16 +50,16 @@ A methodology such as this one provides some of the foundational pieces required
   - Visual Focus Indicator
   - Effective Focus Management (Form Validation, Dialogs, AJAX, Etc.)
   - Keyboard Traps
-- Test for Touch Device Accessibility
+- [Test for Touch Device Accessibility](test-for-touch-device-a11y)
   - Touch Target Size
   - Touch Functionality
   - Touch Functionality with Screen Reader On
-- Test for Meaning Conveyed with Color
-- Test Alt Text Quality
-- Test Video/Audio Accessibility
-- Test for Landmarks
-- Test for Headings
-- Test Link Text Quality
-- Test Form Labels and Instructions
-- Test Form Validation
-- Testing Custom Widgets
+- [Test for Meaning Conveyed with Color](test-for-meaning-conveyed-with-color.md)
+- [Test Alt Text Quality](test-alt-text-quality.md)
+- [Test Video/Audio Accessibility](test-video-audio-accessibility.md)
+- [Test for Landmarks](test-for-landmarks.md)
+- [Test for Headings](test-for-headings.md)
+- [Test Link Text Quality](test-link-text-quality.md)
+- [Test Form Labels and Instructions](test-form-labels-and-instructions.md)
+- [Test Form Validation](test-form-validation.md)
+- [Testing Custom Widgets](testing-custom-widgets.md)

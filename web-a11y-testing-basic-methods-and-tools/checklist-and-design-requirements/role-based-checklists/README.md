@@ -4,6 +4,6 @@ There is not just one role that is responsible for accessibility; there are many
 
 ## In this Section:
 
-Checklist for Designers
-Checklist for Developers
-Checklist for Quality Assurance
+- [Checklist for Designers](checklist-for-designers.md)
+- [Checklist for Developers](checklist-for-developers.md)
+- [Checklist for Quality Assurance](checklist-for-qa.md)

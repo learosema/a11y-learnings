@@ -6,10 +6,10 @@ While the main focus of the A Basic Testing Routine section is the testing phase
 
 ## In this Section:
 
-- Enabling Keyboard Access on a Mac
-- Tab Focusability and Tab Order
-- Keyboard Functionality
-- Keyboard Functionality with Screen Reader On
-- Visual Focus Indicator
-- Effective Focus Management (Form Validation, Dialogs, AJAX, Etc.)
-- Keyboard Traps
+- [Enabling Keyboard Access on a Mac](enabling-keyboard-access-on-a-mac.md)
+- [Tab Focusability and Tab Order](tab-focusability-and-tab-order.md)
+- [Keyboard Functionality](keyboard-functionality.md)
+- [Keyboard Functionality with Screen Reader On](keyboard-functionality-with-screen-reader-on.md)
+- [Visual Focus Indicator](visual-focus-indicator.md)
+- [Effective Focus Management (Form Validation, Dialogs, AJAX, Etc.)](effective-focus-management.md)
+- [Keyboard Traps](keyboard-traps.md)

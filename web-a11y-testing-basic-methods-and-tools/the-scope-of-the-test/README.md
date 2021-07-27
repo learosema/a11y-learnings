@@ -15,5 +15,5 @@ Usually, all of the pages on the website do not have to be tested as long as the
 
 ### In this Section:
 
-- Entire Pages and Templates (Designs)
-- Page Content and Widgets
+- [Entire Pages and Templates (Designs)](entire-pages-and-designs.md)
+- [Page Content and Widgets](page-content-and-widgets.md)

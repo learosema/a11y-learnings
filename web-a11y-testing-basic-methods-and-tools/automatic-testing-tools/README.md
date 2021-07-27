@@ -8,6 +8,6 @@ Basic tools test one page at a time using a defined set of rules. Some may even 
 
 ## In this Section:
 
-- Automated Tools
-- axe DevTools
-- Types of Automated Testing
+- [Automated Tools](automated-tools.md)
+- [axe DevTools](axe-devtools.md)
+- [Types of Automated Testing](types-of-automated-testing.md)

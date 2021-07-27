@@ -6,5 +6,5 @@ As testing is conducted, testers are expected to report the nature of each acces
 
 ## In this Section:
 
-- Writing Effective Accessibility Bug Tickets
-- Prioritizing Accessibility Bugs
+- [Writing Effective Accessibility Bug Tickets](writing-effective-a11y-bug-tickets.md)
+- [Prioritizing Accessibility Bugs](prioritizing-a11y-bugs.md)

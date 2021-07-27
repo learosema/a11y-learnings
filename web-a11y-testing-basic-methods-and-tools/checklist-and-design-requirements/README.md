@@ -8,11 +8,11 @@ In this section, you will find different checklists that are role-specific, cont
 
 ## In this Section:
 
-- Role-based Checklists
+- [Role-based Checklists](role-based-checklists)
   - Checklist for Designers
   - Checklist for Developers
   - Checklist for Quality Assurance
-- Content-based Checklists
+- [Content-based Checklists](content-based-checklists)
   - Semantic Structure and Navigation: Summary & Checklist
   - Images, Canvas, SVG, and Other Non-Text Content: Summary & Checklist
   - Visual Design and Colors: Summary & Checklist
@@ -21,4 +21,4 @@ In this section, you will find different checklists that are role-specific, cont
   - Device-Independent User Input Methods: Summary & Checklist
   - Form Labels, Instructions, and Validation: Summary & Checklist
   - Dynamic Updates, AJAX, and Single-page Applications: Summary & Checklist
-- Design Considerations
+- [Design Considerations](dq-design-considerations.pdf)

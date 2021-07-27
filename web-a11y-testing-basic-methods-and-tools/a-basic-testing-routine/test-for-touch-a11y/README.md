@@ -4,6 +4,6 @@ Another input method that needs to be evaluated for accessibility is the touch i
 
 ## In this Section:
 
-- Touch Target Size
-- Touch Functionality
-- Touch Functionality with Screen Reader On
+- [Touch Target Size](touch-target-size.md)
+- [Touch Functionality](touch-functionality.md)
+- [Touch Functionality with Screen Reader On](touch-functionality-with-screenreader.md)
