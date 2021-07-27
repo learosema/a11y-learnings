@@ -6,6 +6,6 @@ Whenever there is a time limit on an activity, users need to either know the tim
 
 ## In this Section:
 
-- Session Timeout
-- Timers with Fixed Deadlines
-- Auto Refresh/Reload
+- [Session Timeout](session-timeout.md)
+- [Timers with Fixed Deadlines](timers-with-fixed-deadlines.md)
+- [Auto Refresh/Reload](auto-refresh-reload.md)
