@@ -6,9 +6,9 @@ Before jumping into all of the details about how to use screen readers, it helps
 
 ## In this Section:
 
-- What Are Screen Readers?
-- Who Uses Screen Readers?
-- Why Test with Screen Readers?
-- Which Screen Readers Should You Test With?
-- Can Websites Detect Screen Readers?
-- Windows Screen Readers on a Mac
+- [What Are Screen Readers?](what-are-screen-readers)
+- [Who Uses Screen Readers?](who-uses-screen-readers)
+- [Why Test with Screen Readers?](why-test-with-screen-readers)
+- [Which Screen Readers Should You Test With?](which-screen-readers-should-you-test-with)
+- [Can Websites Detect Screen Readers?](can-websites-detect-screen-readers)
+- [Windows Screen Readers on a Mac](windows-screen-readers-on-a-mac)

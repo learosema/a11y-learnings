@@ -2,15 +2,15 @@
 
 ## Table of Contents
 
-- Introduction
-- Screen Reader Basics
+- [Introduction](README.md)
+- [Screen Reader Basics](screen-reader-basics)
   - What Are Screen Readers?
   - Who Uses Screen Readers?
   - Why Test with Screen Readers?
   - Which Screen Readers Should You Test With?
-- Can Websites Detect Screen Readers?
+  - Can Websites Detect Screen Readers?
   - Windows Screen Readers on a Mac
-  - Characteristics of Screen Readers
+- [Characteristics of Screen Readers](characteristics-of-screen-readers)
   - No Visual Interface
   - No Mouse, Just Keyboard
   - Linear Content
@@ -21,11 +21,11 @@
   - Abbreviations and Acronyms
   - Screen Readers Read the Accessibility API and/or DOM
   - Virtual Buffer
-- Accessibility APIs
+- [Accessibility APIs](accessibility-apis)
   - Windows
   - MacOS
   - Browsers
-- Wayfinding and Reading Content with Screen Readers
+- [Wayfinding and Reading Content with Screen Readers](wayfinding-and-reading-content-with-screen-readers)
   - Page Title
   - Read All Content
   - Headings
@@ -39,29 +39,29 @@
   - Tables
   - Searching within the Page
   - Exploring Forms
-- Screen Reader Modes
+- [Screen Reader Modes](Screen Reader Modes)
   - Document/Browse/Scan Mode
   - Focus, Application, and Forms Mode
   - Table Mode
   - JAWS PC Cursor, JAWS Cursor, & Virtual PC Cursor
-- JAWS (Windows)
+- [JAWS (Windows)](jaws-windows)
   - Keystrokes
   - Configuration Options
-- NVDA (Windows)
+- [NVDA (Windows)](nvda-windows)
   - Keystrokes
   - Configuration Options
-- VoiceOver (iOS)
+- [VoiceOver (iOS)](voice-over-ios)
   - Gestures
   - Configuration Options
-- TalkBack (Android)
+- [TalkBack (Android)](talkback-android)
   - Gestures
   - Configuration Options
-- VoiceOver (macOS)
+- [VoiceOver (macOS)](voiceover-macos)
   - Enabling Keyboard Access on a Mac
   - Keystrokes
   - Configuration Options
-- Narrator (Windows)
+- [Narrator (Windows)](narrator-windows)
   - Keystrokes
   - Configuration Options
-- ChromeVox
-- Printable Resources
+- [ChromeVox](chrome-vox)
+- [Printable Resources](printable-resources)
