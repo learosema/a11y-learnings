@@ -63,5 +63,6 @@
 - [Narrator (Windows)](narrator-windows)
   - Keystrokes
   - Configuration Options
-- [ChromeVox](chrome-vox)
-- [Printable Resources](printable-resources)
+- [ChromeVox](chromevox.md)
+- [Printable Resources](printable-resources.md)
+- [Summary](summary.md)
