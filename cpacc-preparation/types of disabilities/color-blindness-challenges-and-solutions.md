@@ -9,10 +9,10 @@ The CPACC exam will ask you questions that show you know how to:
   - Assistive technologies (products or items that people can use)
   - Adaptive strategies (methods to work around or avoid the challenges)
 
-### Color-Blindness: Examples of Challenges and Solutions
+## Color-Blindness: Examples of Challenges and Solutions
 
-#### General
+### General
 
-##### Challenge: Certain color combinations—red and green in particular—can be difficult to distinguish	
+#### Challenge: Certain color combinations—red and green in particular—can be difficult to distinguish	
 
 Materials can be designed in a way that does not depend on color as a way to convey information.
