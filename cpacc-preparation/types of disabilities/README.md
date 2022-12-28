@@ -17,31 +17,31 @@ In learning the different types of disabilities, you should be able to demonstra
 ## In this Section
 
 - [Blindness](blindness.md)
- - Challenges & Solutions
-- Low Vision
- - Challenges & Solutions
-- Color Blindness
- - Challenges & Solutions
-- Deafblindness
- - Challenges & Solutions
-- Auditory Disabilities
- - Challenges & Solutions
-- Mobility, Flexibility, and Body Structure Disabilities
- - Challenges & Solutions
-- Cognitive Disabilities
- - Challenges & Solutions
+  - [Challenges & Solutions](blindness-challenges-and-solutions.md)
+- [Low Vision](low-vision.md)
+  - [Challenges & Solutions](low-vision-challenges-and-solutions.md)
+- [Color Blindness](color-blindness.md)
+  - [Challenges & Solutions](color-blindness-challenges-and-solutions.md)
+- [Deafblindness](deafblindness.md)
+  - [Challenges & Solutions](deafblindness-challenges-and-solutions.md)
+- [Auditory Disabilities](auditory-disabilities.md)
+  - [Challenges & Solutions](auditory-disabilities-challenges-and-solutions.md)
+- [Mobility, Flexibility, and Body Structure Disabilities](mobility-flexibility-body-structure-disabilities.md)
+  - [Challenges & Solutions](mobility-flexibility-body-structure-disabilities-challenges-and-solutions.md)
+- [Cognitive Disabilities](cognitive-disabilities.md)
+  - Challenges & Solutions
 - Dyslexia/Reading Disabilities
  - Challenges & Solutions
 - Math Disabilities
- - Challenges & Solutions
+  - Challenges & Solutions
 - Speech Disabilities
- - Challenges & Solutions
+  - Challenges & Solutions
 - Seizure Disorders
- - Challenges & Solutions
+  - Challenges & Solutions
 - Psychological/Psychiatric Disabilities
- - Anxiety Disorders
- - Mood Disorders
- - Schizophrenia
- - Other Disorders
- - Challenges and Solutions for People Who Have Psychological/Psychiatric Disabilities
+  - Anxiety Disorders
+  - Mood Disorders
+  - Schizophrenia
+  - Other Disorders
+  - Challenges and Solutions for People Who Have Psychological/Psychiatric Disabilities
 - Multiple/Compound Disabilities
