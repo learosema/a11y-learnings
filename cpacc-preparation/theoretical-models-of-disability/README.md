@@ -31,5 +31,5 @@ For the theoretical models of disability, you should be able to:
 - [Economic Model](economic-model.md)
 - [Functional Solutions Model](functional-solutions-model.md)
 - [Social Identity or Cultural Affiliation Model](social-identity-or-cultural-affiliation-model.md)
-- [Charity/Tragedy Model](charity-tragedy-model.md)
+- [Charity/Tragedy Model](charity-model.md)
 - [Other Models](other-models.md)
