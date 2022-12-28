@@ -29,11 +29,11 @@ In learning the different types of disabilities, you should be able to demonstra
 - [Mobility, Flexibility, and Body Structure Disabilities](mobility-flexibility-body-structure-disabilities.md)
   - [Challenges & Solutions](mobility-flexibility-body-structure-disabilities-challenges-and-solutions.md)
 - [Cognitive Disabilities](cognitive-disabilities.md)
-  - Challenges & Solutions
-- Dyslexia/Reading Disabilities
- - Challenges & Solutions
-- Math Disabilities
-  - Challenges & Solutions
+  - [Challenges & Solutions](cognitive-disabilities-challenges-and-solutions.md)
+- [Dyslexia/Reading Disabilities](dyslexia.md)
+ - [Challenges & Solutions](dyslexia-challenges-and-solutions.md)
+- [Math Disabilities](math-disabilities.md)
+  - [Challenges & Solutions](math-disabilities-challenges-and-solutions.md)
 - Speech Disabilities
   - Challenges & Solutions
 - Seizure Disorders
