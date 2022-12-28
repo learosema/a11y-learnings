@@ -38,7 +38,7 @@ In addition to red-green and blue-yellow color-blindness, the colors red and bla
 
 Red and black can be difficult to distinguish for some people. Here is how red and black may appear to those who may not be colorblind.
 
-![Red text saying, "Return of the Red Baron" on a black background]
+![Red text saying, "Return of the Red Baron" on a black background](red-baron.png)
 
 #### Red and Black Colorblindness simulation
 
@@ -57,11 +57,12 @@ The example below demonstrates how a person who is colorblind may miss informati
 The table here only uses color to convey the level of difficulty of the classes. Some people with red-green color-blindness may have difficulty distinguishing the colors.
 </figcaption>
 
+
 |Course Title               | Level*                            |
 |---------------------------|-----------------------------------|
-|Angular.js                 | <span style="color: #700">█</span>|
-|jQuery                     | <span style="color: #ff0">█</span>|
-|Introduction to JavaScript | <span style="color: #070">█</span>|
+|Angular.js                 | 🟥                                 |
+|jQuery                     | 🟨                                 |
+|Introduction to JavaScript | 🟩                                 |
 
 *Red = advanced, Yellow = intermediate, Green = beginner
 </figure>
@@ -73,9 +74,9 @@ Here is the same table as it may appear to someone with red-green color-blindnes
 
 |Course Title               | Level*                            |
 |---------------------------|-----------------------------------|
-|Angular.js                 | <span style="color: #550">█</span>|
-|jQuery                     | <span style="color: #ff0">█</span>|
-|Introduction to JavaScript | <span style="color: #550">█</span>|
+|Angular.js                 | 🟫                                 |
+|jQuery                     | 🟨                                 |
+|Introduction to JavaScript | 🟫                                 |
 
 *Red = advanced, Yellow = intermediate, Green = beginner
 </figure>
