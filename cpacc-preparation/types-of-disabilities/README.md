@@ -34,14 +34,14 @@ In learning the different types of disabilities, you should be able to demonstra
  - [Challenges & Solutions](dyslexia-challenges-and-solutions.md)
 - [Math Disabilities](math-disabilities.md)
   - [Challenges & Solutions](math-disabilities-challenges-and-solutions.md)
-- Speech Disabilities
-  - Challenges & Solutions
-- Seizure Disorders
-  - Challenges & Solutions
-- Psychological/Psychiatric Disabilities
-  - Anxiety Disorders
-  - Mood Disorders
-  - Schizophrenia
-  - Other Disorders
-  - Challenges and Solutions for People Who Have Psychological/Psychiatric Disabilities
-- Multiple/Compound Disabilities
+- [Speech Disabilities](speech-disabilities.md)
+  - [Challenges & Solutions](speech-disabilities-challenges-and-solutions.md)
+- [Seizure Disorders](seizure-disorders.md)
+  - [Challenges & Solutions](seizure-disorders-challenges-and-solutions.md)
+- [Psychological/Psychiatric Disabilities](psychological-psychiatric-disabilities/README.md)
+  - [Anxiety Disorders](psychological-psychiatric-disabilities/anxiety-disorders.md)
+  - [Mood Disorders](psychological-psychiatric-disabilities/mood-disorders.md)
+  - [Schizophrenia](psychological-psychiatric-disabilities/schizophrenia.md)
+  - [Other Disorders](psychological-psychiatric-disabilities/other-disorders.md)
+  - [Challenges and Solutions for People Who Have Psychological/Psychiatric Disabilities](psychological-psychiatric-disabilities/challenges-and-solutions.md)
+- [Multiple/Compound Disabilities](multiple-compound-disabilities.md)
