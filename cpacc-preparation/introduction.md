@@ -18,8 +18,8 @@ This course will provide you with the knowledge you need to pass the exam to bec
 The CPACC and WAS exams, as well as the Deque University courses, have been updated to cover WCAG 2.1.
 </figure>
 
-<strong>Primary Intended Audience:</strong> Anyone in an accessibility-related field
+- <strong>Primary Intended Audience:</strong> Anyone in an accessibility-related field
+- <strong>Technical Level:</strong> Easy (non-technical)
+- <strong>Duration:</strong> 4.5 hours (estimate)
 
-<strong>Technical Level:</strong> Easy (non-technical)
-
-<strong>Duration:</strong> 4.5 hours (estimate)
+[Table of contents](toc.md)
