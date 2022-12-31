@@ -13,63 +13,63 @@
   - [Assistive Technologies](basic-disability-concepts/assistive-technologies.md)
   - [The Digital Accessibility Revolution](basic-disability-concepts/the-digital-accessibility-revolution.md)
 - [Theoretical Models of Disability](theoretical-models-of-disability/)
-  - Medical Model
-  - Social Model
-  - Biopsychosocial Model
-  - Economic Model
-  - Functional Solutions Model
-  - Social Identity or Cultural Affiliation Model
-  - Charity/Tragedy Model
-  - Other Models
+  - [Medical Model](theoretical-models-of-disability/medical-model.md)
+  - [Social Model](theoretical-models-of-disability/social-model.md)
+  - [Biopsychosocial Model](theoretical-models-of-disability/biopsychosocial-model.md)
+  - [Economic Model](theoretical-models-of-disability/economic-model.md)
+  - [Functional Solutions Model](theoretical-models-of-disability/functional-solutions-model.md)
+  - [Social Identity or Cultural Affiliation Model](theoretical-models-of-disability/social-identity-or-cultural-affiliation-model.md)
+  - [Charity/Tragedy Model](theoretical-models-of-disability/charity-model.md)
+  - [Other Models](theoretical-models-of-disability/other-models.md)
 - [Types of Disabilities](types-of-disabilities/)
-  - Blindness
-    - Challenges & Solutions
-  - Low Vision
-    - Challenges & Solutions
-  - Color Blindness
-    - Challenges & Solutions
-  - Deafblindness
-    - Challenges & Solutions
-  - Auditory Disabilities
-    - Challenges & Solutions
-  - Mobility, Flexibility, and Body Structure Disabilities
-    - Challenges & Solutions
-  - Cognitive Disabilities
-    - Challenges & Solutions
-  - Dyslexia/Reading Disabilities
-    - Challenges & Solutions
-  - Math Disabilities
-    - Challenges & Solutions
-  - Speech Disabilities
-    - Challenges & Solutions
-  - Seizure Disorders
-    - Challenges & Solutions
-  - Psychological/Psychiatric Disabilities
-    - Anxiety Disorders
-    - Mood Disorders
-    - Schizophrenia
-    - Other Disorders
-    - Challenges and Solutions for People Who Have Psychological/Psychiatric Disabilities
-  - Multiple/Compound Disabilities
-- Disability Statistics
-  - Incidence and Prevalence
-  - Why Disability Statistics Are So Variable
-  - Aging Populations
-  - Education Levels & Literacy
-  - Employment Rate
-  - Poverty and Disability
-- Disability Etiquette
-  - Talking About Disabilities
-  - Talking to People with Disabilities
-  - Helping People
-  - Service Animals
-  - Assistive Technologies
-  - Everyone Is Different
-- Benefits of Accessible Design
-  - For People with Disabilities
-  - For Businesses and Organizations
-  - For People Without Disabilities
-- Web Accessibility Principles
+  - [Blindness](types-of-disabilities/blindness.md)
+    - [Challenges & Solutions](types-of-disabilities/blindness-challenges-and-solutions.md)
+  - [Low Vision](types-of-disabilities/low-vision.md)
+    - [Challenges & Solutions](types-of-disabilities/low-vision-challenges-and-solutions.md)
+  - [Color Blindness](types-of-disabilities/color-blindness-challenges-and-solutions.md)
+    - [Challenges & Solutions](types-of-disabilities/color-blindness-challenges-and-solutions.md)
+  - [Deafblindness](types-of-disabilities/deafblindness.md)
+    - [Challenges & Solutions](types-of-disabilities/deafblindness-challenges-and-solutions.md)
+  - [Auditory Disabilities](types-of-disabilities/auditory-disabilities.md)
+    - [Challenges & Solutions](types-of-disabilities/auditory-disabilities-challenges-and-solutions.md)
+  - [Mobility, Flexibility, and Body Structure Disabilities](types-of-disabilities/mobility-flexibility-body-structure-disabilities.md)
+    - [Challenges & Solutions](types-of-disabilities/mobility-flexibility-body-structure-disabilities-challenges-and-solutions.md)
+  - [Cognitive Disabilities](types-of-disabilities/cognitive-disabilities.md)
+    - [Challenges & Solutions](types-of-disabilities/cognitive-disabilities-challenges-and-solutions.md)
+  - [Dyslexia/Reading Disabilities](types-of-disabilities/dyslexia.md)
+    - [Challenges & Solutions](types-of-disabilities/dyslexia-challenges-and-solutions.md)
+  - [Math Disabilities](types-of-disabilities/math-disabilities.md)
+    - [Challenges & Solutions](types-of-disabilities/math-disabilities-challenges-and-solutions.md)
+  - [Speech Disabilities](types-of-disabilities/speech-disabilities.md)
+    - [Challenges & Solutions](types-of-disabilities/speech-disabilities-challenges-and-solutions.md)
+  - [Seizure Disorders](types-of-disabilities/seizure-disorders.md)
+    - [Challenges & Solutions](types-of-disabilities/seizure-disorders-challenges-and-solutions.md)
+  - [Psychological/Psychiatric Disabilities](types-of-disabilities/psychological-psychiatric-disabilities/)
+    - [Anxiety Disorders](types-of-disabilities/psychological-psychiatric-disabilities/anxiety-disorders.md)
+    - [Mood Disorders](types-of-disabilities/psychological-psychiatric-disabilities/mood-disorders.md)
+    - [Schizophrenia](types-of-disabilities/psychological-psychiatric-disabilities/schizophrenia.md)
+    - [Other Disorders](types-of-disabilities/psychological-psychiatric-disabilities/other-disorders.md)
+    - [Challenges and Solutions for People Who Have Psychological/Psychiatric Disabilities](types-of-disabilities/psychological-psychiatric-disabilities/challenges-and-solutions.md)
+  - [Multiple/Compound Disabilities](types-of-disabilities/multiple-compound-disabilities.md)
+- [Disability Statistics](disability-statistics/)
+  - [Incidence and Prevalence](disability-statistics/incidence-and-prevalence.md)
+  - [Why Disability Statistics Are So Variable](disability-statistics/why-disability-statistics-are-so-variable.md)
+  - [Aging Populations](disability-statistics/aging-populations.md)
+  - [Education Levels & Literacy](disability-statistics/education-levels-and-literacy.md)
+  - [Employment Rate](disability-statistics/employment-rate.md)
+  - [Poverty and Disability](disability-statistics/poverty-and-disability.md)
+- [Disability Etiquette](disability-etiquette/)
+  - [Talking About Disabilities](disability-etiquette/talking-about-disabilities.md)
+  - [Talking to People with Disabilities](disability-etiquette/talking-to-people-with-disabilities.md)
+  - [Helping People](disability-etiquette/helping-people.md)
+  - [Service Animals](disability-etiquette/service-animals.md)
+  - [Assistive Technologies](disability-etiquette/assistive-technologies.md)
+  - [Everyone Is Different](disability-etiquette/everyone-is-different.md)
+- [Benefits of Accessible Design](benefits-of-accessible-design/)
+  - [For People with Disabilities](benefits-of-accessible-design/for-people-with-disabilities.md)
+  - [For Businesses and Organizations](benefits-of-accessible-design/for-businesses-and-organizations.md)
+  - [For People Without Disabilities](benefits-of-accessible-design/for-people-without-disabilities.md)
+- [Web Accessibility Principles](web-accessibility-principles/)
   - Perceivable
   - Operable
   - Understandable
