@@ -87,28 +87,28 @@
   - [Dynamic JavaScript](universal-design-for-the-web/dynamic-javascript.md)
   - [PDF Documents](universal-design-for-the-web/pdf-documents.md)
 - [Universal Design for the Physical World](universal-design-for-the-physical-world/)
-  - Universal Design Principles
-  - Applying Universal Design
-  - Sidewalks
-  - Building Entrances
-  - Multi-Level Buildings
-  - Doorways
-  - Bathrooms
-  - Drinking Fountains
-  - Transportation Systems
-  - Taxis
-  - Emergencies
-  - Grocery Stores
-  - Self Check-in/Check-out
-  - Signs
-  - Printed Materials
-  - Microwaves
-  - Televisions
-  - Movies
-  - ATMs
-  - Mobile Devices
-- Universal Design for Learning
-  - Learner Diversity
+  - [Universal Design Principles](universal-design-for-the-physical-world/universal-design-principles.md)
+  - [Applying Universal Design](universal-design-for-the-physical-world/applying-universal-design.md)
+  - [Sidewalks](universal-design-for-the-physical-world/sidewalks.md)
+  - [Building Entrances](universal-design-for-the-physical-world/building-entrances.md)
+  - [Multi-Level Buildings](universal-design-for-the-physical-world/multi-level-buildings.md)
+  - [Doorways](universal-design-for-the-physical-world/doorways.md)
+  - [Bathrooms](universal-design-for-the-physical-world/bathrooms.md)
+  - [Drinking Fountains](universal-design-for-the-physical-world/drinking-fountains.md)
+  - [Transportation Systems](universal-design-for-the-physical-world/transportation-systems.md)
+  - [Taxis](universal-design-for-the-physical-world/taxis.md)
+  - [Emergencies](universal-design-for-the-physical-world/emergencies.md)
+  - [Grocery Stores](universal-design-for-the-physical-world/grocery-stores.md)
+  - [Self Check-in/Check-out](universal-design-for-the-physical-world/self-check-in-check-out.md)
+  - [Signs](universal-design-for-the-physical-world/signs.md)
+  - [Printed Materials](universal-design-for-the-physical-world/printed-materials.md)
+  - [Microwaves](universal-design-for-the-physical-world/microwaves.md)
+  - [Televisions](universal-design-for-the-physical-world/televisions.md)
+  - [Movies](universal-design-for-the-physical-world/movies.md)
+  - [ATMs](universal-design-for-the-physical-world/atms.md)
+  - [Mobile Devices](universal-design-for-the-physical-world/mobile-devices.md)
+- [Universal Design for Learning](universal-design-for-learning/)
+  - [Learner Diversity](universal-design-for-learning/learner-diversity.md)
   - Multiple Means of Representation
   - Multiple Means of Action & Expression
   - Multiple Means of Engagement
@@ -152,4 +152,3 @@
   - Procurement Management
   - Stakeholder Management
 - Conclusion
-- 
