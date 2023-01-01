@@ -22,13 +22,14 @@ Perceiving and gathering information, understanding ideas, recalling facts, and 
 #### Strategic Networks
 
 ![Strategic networks are located in the front of the brain, where the frontal lobe is.](strategic.png)
+
 Strategic networks are located in the front of the brain, where the frontal lobe is.
 
 Examples of how strategic networks work include planning and organizing tasks, connecting ideas together, executing actions and demonstrating skills. Strategic networks come into play when learners complete activities and assessments that allow them to practice competencies and demonstrate mastery of competencies and learning objectives. Strategic networks are involved when learners apply the knowledge they have acquired.
 
 #### Affective Networks
 
-![Affective networks are located in the center of the brain, where the limbic system is.]()
+![Affective networks are located in the center of the brain, where the limbic system is.](affective.png)
 
 Affective networks are located in the center of the brain, where the limbic system is.
 
