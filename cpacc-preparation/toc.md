@@ -70,24 +70,23 @@
   - [For Businesses and Organizations](benefits-of-accessible-design/for-businesses-and-organizations.md)
   - [For People Without Disabilities](benefits-of-accessible-design/for-people-without-disabilities.md)
 - [Web Accessibility Principles](web-accessibility-principles/)
-  - Perceivable
-  - Operable
-  - Understandable
-  - Robust
-- Universal Design for the Web
-  - Images
-  - Color
-  - Contrast
-  - Video & Audio
-  - Links
-  - Headings
-  - Keyboard Accessibility
-  - Tables
-  - Forms
-  - Dynamic JavaScript
-  - PDF Documents
-  - Quiz
-- Universal Design for the Physical World
+  - [Perceivable](web-accessibility-principles/perceivable.md)
+  - [Operable](web-accessibility-principles/operable.md)
+  - [Understandable](web-accessibility-principles/understandable.md)
+  - [Robust](web-accessibility-principles/robust.md)
+- [Universal Design for the Web](universal-design-for-the-web/)
+  - [Images](universal-design-for-the-web/images.md)
+  - [Color](universal-design-for-the-web/color.md)
+  - [Contrast](universal-design-for-the-web/contrast.md)
+  - [Video & Audio](universal-design-for-the-web/video-and-audio.md)
+  - [Links](universal-design-for-the-web/links.md)
+  - [Headings](universal-design-for-the-web/headings.md)
+  - [Keyboard Accessibility](universal-design-for-the-web/keyboard-accessibility.md)
+  - [Tables](universal-design-for-the-web/tables.md)
+  - [Forms](universal-design-for-the-web/forms.md)
+  - [Dynamic JavaScript](universal-design-for-the-web/dynamic-javascript.md)
+  - [PDF Documents](universal-design-for-the-web/pdf-documents.md)
+- [Universal Design for the Physical World](universal-design-for-the-physical-world/)
   - Universal Design Principles
   - Applying Universal Design
   - Sidewalks
@@ -152,5 +151,5 @@
   - Risk Management
   - Procurement Management
   - Stakeholder Management
-  - Conclusion
-  - Course Feedback and Survey
+- Conclusion
+- 

@@ -13,7 +13,7 @@ To prepare for the web accessibility portion of the exam, be sure you can:
 
 ## In This Section:
 
-- Perceivable
-- Operable
-- Understandable
-- Robust
+- [Perceivable](perceivable.md)
+- [Operable](operable.md)
+- [Understandable](understandable.md)
+- [Robust](robust.md)
