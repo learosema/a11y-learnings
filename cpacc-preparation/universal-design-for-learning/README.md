@@ -20,9 +20,9 @@ After reviewing this section on universal design for learning, you should be abl
 ## In This Section:
 
 - [Learner Diversity](learner-diversity.md)
-- Multiple Means of Representation
-- Multiple Means of Action & Expression
-- Multiple Means of Engagement
+- [Multiple Means of Representation](multiple-means-for-representation.md)
+- [Multiple Means of Action & Expression](multiple-means-of-action-and-expression.md)
+- [Multiple Means of Engagement](multiple-means-of-engagement.md)
 
 ## Additional Resources
 
