@@ -123,31 +123,33 @@
   - [Accessibility Is Hard & Expensive](myths-and-misconceptions-about-accessibility/accessibility-is-hard-and-expensive.md)
   - [Accessibility Is Ugly](myths-and-misconceptions-about-accessibility/accessibility-is-ugly.md)
 - [Accessibility Standards and Laws](accessibility-standards-and-laws/)
-  - UN Declaration
-  - UN Convention
-  - The Marrakesh Treaty
-  - Charter of Fundamental Rights of the European Union
-  - The African Charter on Human and People’s Rights
-  - The Inter-American Convention
-  - The Equality Act 2010
-  - Civil Rights Laws
-  - Procurement Laws
-  - Technology Laws
-  - Other Regions
-- Organizational Governance and Management
-  - European Agency for Special Needs and Inclusive Education Guidelines
-  - W3C WAI Recommendations
-  - Business Disability Forum Accessibility Maturity Model
-  - Capability Maturity Model
-  - Integration Management
-  - Web Development Process
-  - Scope Management
-  - Time Management
-  - Cost Management
-  - Quality Management
-  - Human Resource Management
-  - Communication Management
-  - Risk Management
-  - Procurement Management
-  - Stakeholder Management
-- Conclusion
+  - [UN Declaration](accessibility-standards-and-laws/un-declaration.md)
+  - [UN Convention](accessibility-standards-and-laws/un-convention.md)
+  - [The Marrakesh Treaty](accessibility-standards-and-laws/marrakesh-treaty.md)
+  - [Charter of Fundamental Rights of the European Union](accessibility-standards-and-laws/charter-of-fundamental-rights-of-the-eu.md)
+  - [EU Accessibility Compliance and Legislation](accessibility-standards-and-laws/eu-accessibility-compliance-and-laws.md)
+  - [The African Charter on Human and People’s Rights](accessibility-standards-and-laws/african-charter-on-human-and-peoples-rights.md)
+  - [The Inter-American Convention](accessibility-standards-and-laws/inter-american-convention.md)
+  - [The Equality Act 2010](accessibility-standards-and-laws/the-equality-act-2010.md)
+  - [Civil Rights Laws](accessibility-standards-and-laws/civil-rights-laws.md)
+  - [Procurement Laws](accessibility-standards-and-laws/procurement-laws.md)
+  - [Technology Laws](accessibility-standards-and-laws/technology-laws.md)
+  - [Other Regions](accessibility-standards-and-laws/other-regions.md)
+- [Organizational Governance and Management](organizational-governance-and-management/)
+  - [European Agency for Special Needs and Inclusive Education Guidelines](organizational-governance-and-management/european-agency-for-special-needs-and-inclusive-education-guidelines.md)
+  - [W3C WAI Recommendations](organizational-governance-and-management/w3c-wai-recommendations.md)
+  - [Business Disability Forum Accessibility Maturity Model](organizational-governance-and-management/business-disability-forum-accessibility-maturity-model.md)
+  - [Capability Maturity Model](organizational-governance-and-management/capability-maturity-model.md)
+  - [Integration Management](organizational-governance-and-management/integration-management.md)
+  - [Web Development Process](organizational-governance-and-management/web-development-process.md)
+  - [Scope Management](organizational-governance-and-management/scope-management.md)
+  - [Time Management](organizational-governance-and-management/time-management.md)
+  - [Cost Management](organizational-governance-and-management/cost-management.md)
+  - [Quality Management](organizational-governance-and-management/quality-management.md)
+  - [Human Resource Management](organizational-governance-and-management/human-resource-management.md)
+  - [Communication Management](organizational-governance-and-management/communication-management.md)
+  - [Risk Management](organizational-governance-and-management/risk-management.md)
+  - [Procurement Management](organizational-governance-and-management/procurement-management.md)
+  - [Stakeholder Management](organizational-governance-and-management/stakeholder-management.md)
+- [Conclusion](conclusion.md)
+
