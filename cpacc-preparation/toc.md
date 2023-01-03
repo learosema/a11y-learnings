@@ -109,20 +109,20 @@
   - [Mobile Devices](universal-design-for-the-physical-world/mobile-devices.md)
 - [Universal Design for Learning](universal-design-for-learning/)
   - [Learner Diversity](universal-design-for-learning/learner-diversity.md)
-  - Multiple Means of Representation
-  - Multiple Means of Action & Expression
-  - Multiple Means of Engagement
-- Usability and Accessibility
-  - Defining Usability
-  - Commonalities
-  - Differences
-- Myths and Misconceptions about Accessibility
-  - Accessibility Benefits Only a Small Minority
-  - Accessibility Is a Short-Term Project
-  - Accessibility Should Be the Last Step
-  - Accessibility Is Hard & Expensive
-  - Accessibility Is Ugly
-- Accessibility Standards and Laws
+  - [Multiple Means of Representation](universal-design-for-learning/multiple-means-for-representation.md)
+  - [Multiple Means of Action & Expression](universal-design-for-learning/multiple-means-of-action-and-expression.md)
+  - [Multiple Means of Engagement](universal-design-for-learning/multiple-means-of-engagement.md)
+- [Usability and Accessibility](usability-and-accessibility/)
+  - [Defining Usability](usability-and-accessibility/defining-usability.md)
+  - [Commonalities](usability-and-accessibility/commonalities.md)
+  - [Differences](usability-and-accessibility/differences.md)
+- [Myths and Misconceptions about Accessibility](myths-and-misconceptions-about-accessibility/)
+  - [Accessibility Benefits Only a Small Minority](myths-and-misconceptions-about-accessibility/accessibility-benefits-only-a-small-minority.md)
+  - [Accessibility Is a Short-Term Project](myths-and-misconceptions-about-accessibility/accessibility-is-a-short-term-project.md)
+  - [Accessibility Should Be the Last Step](myths-and-misconceptions-about-accessibility/accessibility-should-be-the-last-step.md)
+  - [Accessibility Is Hard & Expensive](myths-and-misconceptions-about-accessibility/accessibility-is-hard-and-expensive.md)
+  - [Accessibility Is Ugly](myths-and-misconceptions-about-accessibility/accessibility-is-ugly.md)
+- [Accessibility Standards and Laws](accessibility-standards-and-laws/)
   - UN Declaration
   - UN Convention
   - The Marrakesh Treaty
@@ -134,7 +134,6 @@
   - Procurement Laws
   - Technology Laws
   - Other Regions
-  - Quiz
 - Organizational Governance and Management
   - European Agency for Special Needs and Inclusive Education Guidelines
   - W3C WAI Recommendations
